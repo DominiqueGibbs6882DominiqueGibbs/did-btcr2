@@ -140,3 +140,5 @@ provide. In summary its main limitations are:
   introspection" upgrade to Bitcoin, such as OP_CTV or OP_CAT; and
 * ::BTCR2 Beacons:: do not have to reuse their addresses if, in the controller's DID document,
   a descriptor is used instead of an address.
+
+<!-- Auto-update: 2025-10-05T19:48:13.174070 -->
